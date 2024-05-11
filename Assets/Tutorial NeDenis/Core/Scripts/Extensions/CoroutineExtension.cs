@@ -4,6 +4,7 @@ using UnityEngine;
 
 namespace Core
 {
+    //Рассширение для корутины
     public static class CoroutineExtension
     {
         private const string _runnerName = "CoroutineRunner";
