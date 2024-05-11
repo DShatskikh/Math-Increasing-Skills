@@ -2,6 +2,7 @@ using UnityEngine;
 
 namespace CodeBase.Data
 {
+  //Работа с данными
   public static class DataExtensions
   {
     public static float SqrMagnitudeTo(this Vector3 from, Vector3 to)
